@@ -1,2 +1,2 @@
-#allthenews
+allthenews
 MongoDB + Cheerio
